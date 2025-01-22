@@ -1,0 +1,17 @@
+.bg-container {
+    background-image: url(assets/sea-ocean.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    width: 360px;
+    background-size: cover;
+}
+button {border-radius: 10px}
+.bg-page2-container{
+    background-image: url(assets/taj-mahal.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    width: 360px;
+    background-size: cover;
+}
